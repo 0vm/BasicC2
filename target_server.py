@@ -9,7 +9,7 @@ import subprocess
 SECRET_KEY = b'your_shared_secret_key'
 
 def connect_to_control_server():
-    control_server_host = 'localhost'
+    control_server_host = 'your_control_server_ip'
     control_server_port = 5000
 
     while True:
