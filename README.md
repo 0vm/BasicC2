@@ -42,7 +42,7 @@ This is a simple command and control that allows a control server to send comman
 ## Security Considerations
 
 - This is a basic implementation for educational purposes and should not be used in a production environment without proper security enhancements.
-- Implement robust authentication and authorization mechanisms to prevent unauthorized access.
+- Implement robust authentication and authorisation mechanisms to prevent unauthorised access.
 - Restrict the commands that can be executed by the target servers to avoid potential security risks.
 - Ensure input validation and sanitization to avoid command injection vulnerabilities.
 
