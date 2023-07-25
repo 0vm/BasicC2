@@ -1,6 +1,6 @@
 # Command and Control (C2)
 
-This is a simple command and control that allows a control server to send commands to multiple target servers (slaves) simultaneously. The target servers will execute the received commands and send back the result to the control server.
+This is a simple command and control (cnc) that allows a control server to send commands to multiple target servers (slaves) simultaneously. The target servers will execute the received commands and send back the result to the control server.
 
 ## Features
 
