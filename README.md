@@ -28,8 +28,8 @@ This is a simple command and control (cnc) that allows a control server to send 
    ```
 
 3. Set up the target server(s):
-   - Open `target_server.py` and replace `'your_control_server_ip'` with the actual IP address or hostname of the control server (line 12).
-   - Open `target_server.py` and replace `control_server_port` with the port from the control server (line 13).
+   - Open `target_server.py` and replace `'your_control_server_ip'` with the actual IP address or hostname of the control server (line 13).
+   - Open `target_server.py` and replace `control_server_port` with the port from the control server (line 14).
    - Run the target server(s):
    ```ruby
    python target_server.py
