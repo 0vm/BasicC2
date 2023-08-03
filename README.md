@@ -1,6 +1,7 @@
 # Command and Control (C2)
 
 This is a simple command and control (cnc) that allows a control server to send commands to multiple target servers (slaves) simultaneously. The target servers will execute the received commands and send back the result to the control server.
+At 75 stars I will make a UDP Version that is undetected on GCP, Azure, AWS, etc
 
 ## Features
 
