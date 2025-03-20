@@ -1,8 +1,8 @@
 # Command and Control (C2)
 
-This is a simple command and control (c2) that allows a control server to send commands to multiple target servers (slaves) simultaneously. The target servers will execute the received commands and send back the result to the control server.
+This is a simple command and control (C2) that allows a control server to send commands to multiple target servers (slaves) simultaneously. The target servers will execute the received commands and send back the result to the control server.
 
-At 100 stars I will make a UDP Version that is undetected on GCP, Azure, AWS, etc
+UDP version README is available [here](https://github.com/0vm/BasicC2/tree/main/UDP/README.md)
 
 ## Features
 
