@@ -1,5 +1,7 @@
 # UDP Version
 
+The only benefit to this version is only that it doesn't get your server banned/monitored on AWS, GCP, and other cloud services.
+
 ## Overview
 This is the **UDP-based** version, which uses UDP for communication instead of TCP. It is lightweight, simple and does not require persistent connections.
 
