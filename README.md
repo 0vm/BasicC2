@@ -54,4 +54,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-This project is for educational purposes only and should not be used for any malicious activities. Use it responsibly and ethically. But who's going to stop you if you don't?
+This project is for educational purposes only and should not be used for any malicious activities. Use it responsibly and ethically.
